@@ -1,0 +1,28 @@
+---
+title: "About Me"
+image: self_portrait_winter.jpg
+about:
+  template: trestles
+  links:
+    - icon: twitter
+      text: Twitter
+      href: https://twitter.com/daszlosek
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/daszlosek
+    - icon: github
+      text: Github
+      href: https://github.com/daszlosek
+---
+
+### Hi, I'm Donald
+
+I have been a biostatistician on the Medical Data Insights team of [IDEXX Laboratories](https://www.idexx.com/en/) since 2017 designing and analyzying, clinical, big data, and machine learning validation studies.
+
+Previously, I worked at [Harvard Innovation Labs](https://innovationlabs.harvard.edu/) as a biostatistician consultant and [Harvard Medical School](https://hms.harvard.edu/)/[Beth Isreal Deaconess Medical Center](https://www.bidmc.org/) as a biostatistician focused on large cardiovascular clinical trials.
+
+I received a Bachelor's of Science in Human Biology with minors in Biochemistry and Physics from the University of Southern Maine. The focus of my undergraduate work was on the effects of heavy metals (arsenic) on the developing cytoskeleton of rat pheochromocytoma cells as a model for brain development.
+
+In addition, I obtained both an undergraduate and graduate research fellowship from NASA focused on the effects of space radiation on developing glial cells and the mitigation of stunted neurite outgrowth through the use of antioxidants to mitigate damage from reactive oxygen species at the Biomedical Research and Operations branch of Johnson Space Center.
+
+My graduate research focused on the implementation of a a clinical decision support system for traumatic brain injury (the Canadian Head CT scan rule) in a single large hospital and the evaluation of the performance of that implementation into an EHR.

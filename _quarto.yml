@@ -1,0 +1,19 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "szlo statistics"
+  navbar:
+    background: "#050505"
+    right:
+      - about.qmd
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    highlight-style: ayu
+    code-line-numbers: true
+
+editor: visual
+
