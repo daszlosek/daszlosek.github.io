@@ -1,0 +1,12 @@
+---
+title: "Welcome To My Blog"
+author: "Donald Szlosek"
+date: "2023-01-14"
+categories: [news]
+---
+
+Hello, World!
+
+Welcome to my blog!
+
+While this blog will be mainly focused on statistics, I am (at least hoping) to have this blog broken up into a few sections!
