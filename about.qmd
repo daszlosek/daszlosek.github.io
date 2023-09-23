@@ -17,9 +17,19 @@ about:
 
 ### Hi, I'm Donald
 
-I have been a biostatistician on the Medical Data Insights team of [IDEXX Laboratories](https://www.idexx.com/en/) since 2017 designing and analyzying, clinical, big data, and machine learning validation studies.
+Since 2017, I've held the position of Biostatistician at [IDEXX Laboratories](https://www.idexx.com/en/) within the Medical Data Insights team. My responsibilities predominantly revolve around three main domains: 
+
+1. Clinical Studies
+2. Real World Evidence (RWE) Studies
+3. Validation Studies for machine learning algorithms
+
+As part of my work, I collaborate with over 40 universities and research institutions across 20 different countries:
+
+![](002_world-collaboration-map.png)
 
 Previously, I worked at [Harvard Innovation Labs](https://innovationlabs.harvard.edu/) as a biostatistician consultant and [Harvard Medical School](https://hms.harvard.edu/)/[Beth Isreal Deaconess Medical Center](https://www.bidmc.org/) as a biostatistician focused on large cardiovascular clinical trials.
+
+
 
 I received a Bachelor's of Science in Human Biology with minors in Biochemistry and Physics from the University of Southern Maine. The focus of my undergraduate work was on the effects of heavy metals (arsenic) on the developing cytoskeleton of rat pheochromocytoma cells as a model for brain development.
 
