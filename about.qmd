@@ -1,6 +1,6 @@
 ---
 title: "About Me"
-image: self_portrait_winter.jpg
+image: profile2_lookdown.jpg
 about:
   template: trestles
   links:

@@ -3,11 +3,12 @@ project:
   output-dir: docs
 
 website:
-  title: "szlo statistics"
+  title: "szlo.ai"
   navbar:
     background: "#050505"
     right:
       - about.qmd
+      - research.qmd
 format:
   html:
     theme: cosmo
