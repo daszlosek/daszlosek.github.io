@@ -15,6 +15,6 @@ about:
       href: https://github.com/daszlosek
 ---
 
-Rarely do we see linear relationships in nature, yet a lot of research is modeled using linear models. My research focuses on the use of non-linear models to better understand the complex relationship between between biomarkers and disease. 
+Rarely do we see linear relationships in nature, yet a lot of research is modeled using linear models. My research focuses on the use of non-linear models to better understand the complex relationship between between biomarkers and disease.
 
-In addition, I also focus on the development and application of improved methods for handling of imperfect hold standards in the training and validation of machine learning algorithms, with the goal of building more robust medical AI systems. 
+In addition, I also focus on the development and application of improved methods for handling of imperfect hold standards in the training and validation of machine learning algorithms, with the goal of building more robust medical AI systems.
