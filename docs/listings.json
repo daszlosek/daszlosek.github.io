@@ -2,6 +2,7 @@
   {
     "listing": "/index.html",
     "items": [
+      "/posts/005_blog_cessie/index.html",
       "/posts/004_blog_intro_simulated_annealing/index.html",
       "/posts/welcome/index.html",
       "/posts/003_blog_tidymodel-mixed-effects/index.html",
